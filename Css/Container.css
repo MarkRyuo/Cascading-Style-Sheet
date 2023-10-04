@@ -6,7 +6,7 @@
 }
 
 .Container {
-  margin: 100px 200px 200px 200px; 
+  margin: 100px 200px 1000px 200px; 
   background-color: aliceblue;
   border: 2px solid black;
   padding: 30px 50px 30px 50px;
@@ -17,15 +17,22 @@
   margin-top: 30px;
   text-align: justify;
   word-spacing: 2px;
-  line-height: 25px;
-  font-size: 20px;
+  line-height: 35px;
+  font-size: 30px;
 }
 
 .second-p {
   margin-top: 60px;
   text-align: justify;
   word-spacing: 2px;
-  line-height: 25px;
-  font-size: 20px;
+  line-height: 35px;
+  font-size: 30px;
+}
+.third-p {
+  margin-top: 60px;
+  text-align: justify;
+  word-spacing: 2px;
+  line-height: 35px;
+  font-size: 30px;
 }
 
