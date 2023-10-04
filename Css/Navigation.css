@@ -1,4 +1,5 @@
-.navigation {
+/* In Navigation i use position fixed for nav ay hindi naalis*/
+.navigation {  
   background-color: #74C69D;
   border: 1px solid black;
   height: 100px;
