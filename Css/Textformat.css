@@ -18,6 +18,10 @@ div {
   font-size: 3rem;
   text-align: center;
   text-align-last: justify;
+  text-indent: 100px;
+  letter-spacing: 4px;
+  word-spacing: 40px;
+  line-height: 100px;
 }
 .text-2 {
   color: rgb(5, 87, 87);
@@ -28,6 +32,10 @@ div {
   font-size: 2rem;
   text-align: justify;
   text-align-last: center;
+  letter-spacing: 3px;
+  text-indent: 40px;
+  word-spacing: 30px;
+  line-height: 90px;
 }
 .text-3 {
   color: rgb(5, 87, 87);
@@ -38,4 +46,8 @@ div {
   font-size: 2rem;
   text-align: justify;
   text-align-last: center;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  word-spacing: 40px;
+  line-height: 50px;
 }
