@@ -6,10 +6,30 @@ body {
 
 div {
   background-color: azure;
+  font-size: 10px;
 }
 
 .text-1 {
   color: rgb(5, 87, 87);
   text-transform: capitalize;
   text-shadow: 3px 5px 3px rgb(8, 163, 163) ;
+  margin: 5px 15px 10px 15px;
+  padding: 10px 15px 10px 15px;
+  font-size: 3rem;
+}
+.text-2 {
+  color: rgb(5, 87, 87);
+  text-transform: uppercase;
+  text-shadow: 10px 15px 5px rgb(8, 163, 163);
+  margin: 15px 5px 15px 10px;
+  padding: 2px 5px 2px 5px;
+  font-size: 2rem;
+}
+.text-3 {
+  color: rgb(5, 87, 87);
+  text-transform: lowercase;
+  text-shadow: 15px 5px 2px red ;
+  margin: 10px;
+  padding: 5px;
+  font-size: 2rem;
 }
