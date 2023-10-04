@@ -7,6 +7,8 @@
   width: 100%;
   top: 0;
 }
+
+/* if kung magkakaproblema kapag may ul you need to add margin 0 */
 ul {
   margin: 0;
   list-style: none;
