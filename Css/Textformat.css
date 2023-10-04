@@ -1,0 +1,15 @@
+body {
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
+
+div {
+  background-color: azure;
+}
+
+.text-1 {
+  color: rgb(5, 87, 87);
+  text-transform: capitalize;
+  text-shadow: 3px 5px 3px rgb(8, 163, 163) ;
+}
