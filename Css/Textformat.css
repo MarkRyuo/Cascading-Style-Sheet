@@ -16,6 +16,8 @@ div {
   margin: 5px 15px 10px 15px;
   padding: 10px 15px 10px 15px;
   font-size: 3rem;
+  text-align: center;
+  text-align-last: justify;
 }
 .text-2 {
   color: rgb(5, 87, 87);
@@ -24,6 +26,8 @@ div {
   margin: 15px 5px 15px 10px;
   padding: 2px 5px 2px 5px;
   font-size: 2rem;
+  text-align: justify;
+  text-align-last: center;
 }
 .text-3 {
   color: rgb(5, 87, 87);
@@ -32,4 +36,6 @@ div {
   margin: 10px;
   padding: 5px;
   font-size: 2rem;
+  text-align: justify;
+  text-align-last: center;
 }
