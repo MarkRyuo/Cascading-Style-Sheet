@@ -51,3 +51,17 @@ div {
   word-spacing: 40px;
   line-height: 50px;
 }
+.text-4 {
+  color: rgb(5, 87, 87);
+  text-transform: lowercase;
+  text-shadow: 15px 5px 2px rgb(76, 0, 255) ;
+  margin: 10px;
+  padding: 5px;
+  font-size: 2rem;
+  text-align: justify;
+  text-align-last: center;
+  text-indent: 50px;
+  letter-spacing: 5px;
+  word-spacing: 40px;
+  line-height: 50px;
+}
