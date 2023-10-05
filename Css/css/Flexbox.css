@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+.container {
+  border: 2px solid black;
+}
+
+.flex-item {
+  color: black;
+  font-size: 3px;
+}
