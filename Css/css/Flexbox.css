@@ -4,9 +4,44 @@ body {
 
 .container {
   border: 2px solid black;
+  display: flex;
+  flex-flow: row wrap-reverse;
+  justify-content: space-evenly;
 }
 
 .flex-item {
   color: black;
-  font-size: 3px;
+  font-size: 50px;
+  padding: 5px;
+  text-align: center;
+}
+
+.item1 {
+  background-color: aliceblue;
+}
+
+.item2 {
+  background-color:antiquewhite;
+}
+
+.item3 {
+  background-color:aqua;
+}
+
+.item4 {
+  background-color:aquamarine;
+}
+
+.item5 {
+  background-color:azure;
+}
+
+.item6 {
+  background-color:beige;
+}
+.item7 {
+  background-color:blue;
+}
+.item8 {
+  background-color:blueviolet;
 }
