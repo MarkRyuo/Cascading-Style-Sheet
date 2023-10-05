@@ -24,7 +24,7 @@ kaya sa margin nalang tinaasan ko */
   word-spacing: 2px;
   line-height: 35px;
   font-size: 30px;
-  text-align-last: center;
+  text-indent: 100px;
 }
 .second-p {
   margin-top: 60px;
@@ -32,7 +32,6 @@ kaya sa margin nalang tinaasan ko */
   word-spacing: 2px;
   line-height: 35px;
   font-size: 30px;
-  text-align-last: center;
 }
 .third-p {
   margin-top: 60px;
@@ -40,7 +39,6 @@ kaya sa margin nalang tinaasan ko */
   word-spacing: 2px;
   line-height: 35px;
   font-size: 30px;
-  text-align-last: center;
 }
 
 .fourth-p {
