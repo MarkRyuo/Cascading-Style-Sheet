@@ -66,4 +66,19 @@ img {
   background-color:darkturquoise;
 }
 
-.image-1
+.image-1 {
+  position: absolute;
+  margin-left: 150px;
+}
+.image-2 {
+  position: absolute;
+  margin-left: 300px;
+}
+.image-3 {
+  position: absolute;
+  margin-left: 450px;
+}
+.image-4 {
+  position: absolute;
+  margin-left: 600px;
+}
