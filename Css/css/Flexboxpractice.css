@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #D8F3DC;
+}
+
+.Container-1 {
+  border: 2px solid black;
+}
+
+img {
+  width: 100px;
+}
+
+.box {
+  color: black;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.box-1 {
+  background-color: aqua;
+}
+
+.box-2 {
+  background-color:blanchedalmond;
+}
