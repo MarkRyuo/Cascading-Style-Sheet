@@ -9,6 +9,10 @@ body {
 
 .Container-1 {
   border: 2px solid black;
+  display:flex;
+  flex-direction: column;
+  background-color: #74C69D;
+
 }
 
 img {
