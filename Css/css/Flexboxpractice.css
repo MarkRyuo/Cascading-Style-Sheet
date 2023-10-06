@@ -12,6 +12,7 @@ body {
   display:flex;
   flex-direction: column;
   background-color: #74C69D;
+  justify-content: center;
 
 }
 
