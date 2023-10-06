@@ -65,8 +65,8 @@ img {
 .box-10 {
   background-color:darkturquoise;
 }
-
-.image-1 {
+/* Position: absolute; nagpapatong ang div */
+.image-1 {  
   position: absolute;
   margin-left: 150px;
 }
