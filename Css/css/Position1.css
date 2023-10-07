@@ -11,6 +11,7 @@ body {
 .container-1 {
   height: 618px;
   width: 1394px;
+  padding: 37px 22px 369px 26px;
 }
 
 img {
@@ -18,3 +19,19 @@ img {
   width: 414px;
 }
 
+.image-1 {
+  position: absolute;
+  padding: 18px 944px 30px 34px;
+
+}
+
+.image-2 {
+  position: absolute;
+  padding: 18px 491px 30px 487px;
+
+}
+
+.image-3 {
+  position: absolute;
+  padding: 18px 38px 30px 940px ;
+}
