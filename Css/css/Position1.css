@@ -1,7 +1,7 @@
 * {
   margin: 0;
-  height: 1024;
-  width: 1440;
+  width: 1440px;
+  height: 1024px;
 }
 body {
   background-color: #D8F3DC ;
@@ -9,9 +9,11 @@ body {
 }
 
 .container-1 {
-  height: 618px;
-  width: 1394px;
-  padding: 37px 22px 369px 26px;
+  width: 1392px;
+  height: 350px;
+  padding: 37px 20px 300px 20px;
+  border: 2px solid black;
+  margin: 37px 22px 300px 200px;
 }
 
 img {
