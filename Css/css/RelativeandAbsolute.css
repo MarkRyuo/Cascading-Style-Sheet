@@ -4,3 +4,18 @@ body {
   background-color: antiquewhite;
 }
 
+.relative {
+  border: 2px solid black;
+  background-color: white;
+  position: relative;
+  width: 50%;
+  margin: 50px 100px 100px 100px;
+}
+
+.absolute {
+  border: 1px solid black;
+  background-color: bisque;
+  position: absolute;
+  width: 50%;
+  margin: 20px;
+}
