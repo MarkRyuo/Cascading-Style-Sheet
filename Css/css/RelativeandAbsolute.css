@@ -9,6 +9,7 @@ body {
   background-color: white;
   position: relative;
   width: 50%;
+  height: 400px;
   margin: 50px 100px 100px 100px;
 }
 
@@ -17,5 +18,6 @@ body {
   background-color: bisque;
   position: absolute;
   width: 50%;
+  height: 200px;
   margin: 20px;
 }
