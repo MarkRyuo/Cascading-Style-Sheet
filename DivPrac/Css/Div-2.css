@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #e9f5db;
+  height: 90px;
+}
+
+.Text-header ul {
+  list-style: none;
+  display: flex;
+}
