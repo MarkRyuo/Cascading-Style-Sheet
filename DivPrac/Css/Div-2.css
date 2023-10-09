@@ -6,6 +6,8 @@
 header {
   background-color: #e9f5db;
   height: 90px;
+  width: 100%;
+  position: fixed;
 }
 
 .Text-header ul {
