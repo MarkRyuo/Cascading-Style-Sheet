@@ -26,9 +26,13 @@ ul li a {
 }
 li a:hover {
   background-color: transparent;
-  color: #718355;
+  color: #718355 ;
 }
 
-.Profile {
-  border: 1px solid #2c341f;
+#border-1 {
+  border: 1px solid #96b06f;
+  padding: 5px 15px 5px 15px;
+}
+#border-1:hover{
+  background-color: #cff29754;;
 }
