@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* This is Header Buttons */
 header {
   background-color: #e9f5db;
   height: 90px;
@@ -14,8 +14,8 @@ header {
 .Text-header ul {
   list-style: none;
   display: flex;
-  margin: 20px;
-  float: right;
+  position: absolute;
+  margin: 30px 10px 10px 1400px;
 }
 
 ul li a {
@@ -35,4 +35,11 @@ li a:hover {
 }
 #border-1:hover{
   background-color: #cff29754;;
+} 
+/* This is Header Logo */
+
+.Logo {
+  position: absolute;
+  margin: 20px 20px 20px 100px;
+  font-size: xx-large;
 }
