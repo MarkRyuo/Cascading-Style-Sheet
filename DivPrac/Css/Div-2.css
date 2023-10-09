@@ -24,6 +24,10 @@ ul li a {
   color: #4c5838;
   font-size: large;
 }
+li a:hover {
+  background-color: transparent;
+  color: #718355;
+}
 
 .Profile {
   border: 1px solid #2c341f;
