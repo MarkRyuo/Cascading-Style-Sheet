@@ -26,3 +26,8 @@ li {
   display: flex; 
 }
 
+.flex-story {
+  margin-right: 750px;
+  font-size: 30px;
+}
+
