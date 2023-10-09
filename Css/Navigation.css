@@ -14,8 +14,14 @@ ul {
   list-style: none;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   text-align: center;
+  display: flex;
+  margin: 10px;
+  float: right;
 }
 
+li {
+  margin: 10px;
+}
 .flex {
   display: flex; 
 }
