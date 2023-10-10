@@ -25,6 +25,8 @@ body {
   position: fixed;
   width: 100%;
   box-shadow: 20px 10px 6px #305f2b;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 40px;
 }
 
 .flex, .logo-image {
@@ -43,6 +45,17 @@ body {
 
 .about {
   box-shadow: 5px 10px 7px #305f2b;
+  border-radius: 40px;
+}
+
+.code {
+  box-shadow: 5px 10px 7px #305f2b;
+  border-radius: 40px;
+}
+
+.resume {
+  box-shadow: 5px 10px 7px #305f2b;
+  border-radius: 40px;
 }
 .flex  a {
   color: #422928;
