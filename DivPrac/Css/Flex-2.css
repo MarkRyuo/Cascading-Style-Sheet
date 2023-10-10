@@ -7,10 +7,11 @@ body {
   background-color: bisque;
 }
 
-.container {
+.container-1 {
   border: 2px solid black;
-  box-shadow: 3px 4px 5px black;
-  display: flex;  
+  box-shadow: 3px 4px 5px rgb(255, 201, 126);
+  display: flex;
+  justify-content: flex-end;
   /* Display: Flex; gagawin neto horizontal ang ating mga div's */
 }
 .Flex {
@@ -21,7 +22,25 @@ body {
   text-shadow: 2px 4px 2px white;
   /* text-shadow: y-axis x-axis blur color */ 
 }
+/* this is for hyperlink */
 
+.Flex a {
+  text-decoration: none;
+}
+/* I create a hover */
+.Flex a:hover {
+  background-color: transparent;
+  color: red;
+}
+
+.Logo {
+  background-color: rgba(100, 148, 237, 0.421);
+  margin-right: auto;
+  margin-left: 50px;
+  font-size: 35px;
+  padding: 25px;
+  letter-spacing: 5px;
+}
 .About {
   background-color: rgba(0, 255, 255, 0.541);
 }
