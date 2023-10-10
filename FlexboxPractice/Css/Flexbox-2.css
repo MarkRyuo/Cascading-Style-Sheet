@@ -17,24 +17,42 @@ body {
   background-color: #e7decd;
   padding: 40px;
   justify-content:flex-end ;
+  box-shadow: 2px 2px 4px #698f3f;
 }
 
 .flex, .Logo {
-  margin: 10px;
+  margin: 20px;
   font-family: sans-serif;
   font-size: 25px;
+  color: #0a122a;
 }
 
 .flex a {
   text-decoration: none;
+  color: #0a122a;
 }
 
 .Logo {
   margin-right: auto;
   letter-spacing: 10px;
+  text-transform: uppercase;
   
+
 }
 
 .Storys {
   margin-right: auto;
 }
+
+.About {
+  margin-left: 30px;
+}
+
+
+/* This is hover for hyper link */
+
+.flex a:hover{
+  background-color: transparent;
+  color: #698f3f;
+}
+
