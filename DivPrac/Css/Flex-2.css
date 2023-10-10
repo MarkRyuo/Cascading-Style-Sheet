@@ -15,6 +15,10 @@ body {
 }
 .Flex {
   padding: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 45px;
+  font-weight:600;
+  text-shadow: 2px 4px 2px white;
 }
 
 .About {
