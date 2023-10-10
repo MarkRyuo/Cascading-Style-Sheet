@@ -73,11 +73,17 @@ body {
 .title {
   margin: 200px;
   padding: 100px 600px;
-  height: 1250px;
+  height: 1350px;
   background-color: #7EE8FA;;
   text-align: center;
   font-size: 40px;
   background-image: url(https://i.pinimg.com/originals/d7/f5/35/d7f535d11421e455c27c6f4cd4fd4328.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+.Text {
+  text-shadow: 20px 20px 20px hsla(0, 80%, 25%, 0.758);
+  color: hsl(120, 100%, 76%);
+  letter-spacing: 10px;
 }
