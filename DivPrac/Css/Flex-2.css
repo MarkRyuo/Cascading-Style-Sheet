@@ -10,4 +10,21 @@ body {
 .container {
   border: 2px solid black;
   box-shadow: 3px 4px 5px black;
+  display: flex;  
+  /* Display: Flex; gagawin neto horizontal ang ating mga div's */
+}
+.Flex {
+  padding: 25px;
+}
+
+.About {
+  background-color: rgba(0, 255, 255, 0.541);
+}
+
+.Code-x {
+  background-color: rgba(137, 43, 226, 0.377);
+}
+
+.Story {
+  background-color: rgba(95, 158, 160, 0.469);
 }
