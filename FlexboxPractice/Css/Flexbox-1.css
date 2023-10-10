@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #E9F5DB;
+}
+
+.container {
+  background-color: #E9F5DB;
+  border: 1px solid #B5C99A;
+  display: flex;
+}
