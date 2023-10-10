@@ -18,6 +18,7 @@ body {
   padding: 40px;
   justify-content:flex-end ;
   box-shadow: 2px 2px 4px #698f3f;
+  margin: 20px 30px;
 }
 
 .flex, .Logo {
@@ -56,3 +57,13 @@ body {
   color: #698f3f;
 }
 
+/* This is code for Conatiner */
+
+.container {
+  background-color: #e7decd;
+  box-shadow: 5px 3px 6px #804E49;
+  margin: 100px 50px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+}
