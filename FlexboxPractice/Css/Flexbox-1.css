@@ -6,8 +6,49 @@ body {
   background-color: #E9F5DB;
 }
 
-.container {
+.navigation {
   background-color: #E9F5DB;
-  border: 1px solid #B5C99A;
+  border: 1px solid #afc394;
   display: flex;
+  justify-content: flex-end;
+}
+.flex, .flex-logo {
+  padding: 25px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight:600;
+}
+
+.flex-logo {
+  margin-right: auto;
+  font-size: 20px;
+  letter-spacing: 10px;
+  margin-left: 50px;
+}
+
+.flex {
+  margin-left: 15px;
+  font-size: 20px;
+}
+.About {
+  margin-right: 40px;
+}
+
+.flex a {
+  text-decoration: none;
+  color: #3e472f;
+}
+
+.flex a:hover{
+  background-color: transparent;
+  color: #e2ffb5;
+  transition: 2s;
+}
+
+/* This is the style of Container */
+
+.container {
+  background-color: white;
+  border: 1px solid #3e472f;
+  margin: 200px 200px 0px 200px ;
+  height: 600px;
 }
