@@ -22,9 +22,19 @@ body {
 .flex, .Logo {
   margin: 10px;
   font-family: sans-serif;
+  font-size: 25px;
 }
 
 .flex a {
   text-decoration: none;
 }
 
+.Logo {
+  margin-right: auto;
+  letter-spacing: 10px;
+  
+}
+
+.Storys {
+  margin-right: auto;
+}
