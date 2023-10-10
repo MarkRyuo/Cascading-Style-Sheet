@@ -19,6 +19,7 @@ body {
   font-size: 45px;
   font-weight:600;
   text-shadow: 2px 4px 2px white;
+  /* text-shadow: y-axis x-axis blur color */ 
 }
 
 .About {
