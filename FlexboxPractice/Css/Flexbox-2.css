@@ -67,3 +67,8 @@ body {
   display: flex;
   justify-content: center;
 }
+
+div {
+  margin: 100px;
+  font-size: 30px;
+}
