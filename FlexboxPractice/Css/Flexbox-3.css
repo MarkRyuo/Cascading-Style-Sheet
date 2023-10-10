@@ -4,5 +4,48 @@
 }
 
 body {
-  background-color: #80ff72;
+  background-color: hsla(114, 100%, 72%, 0.501);
+}
+/* I code first the logo image */
+/* This is logo image */
+.logo-image img {
+  width: 100px;
+  border-radius: 100px;
+  box-shadow: 5px 10px 5px #5a8f54 ;
+}
+
+/* This is nav */
+
+.navigation {
+  background-color: hsla(114, 100%, 72%, 0.6);
+  display: flex;
+  justify-content: flex-end;
+  position: fixed;
+  width: 100%;
+  box-shadow: 20px 10px 6px #305f2b;
+}
+
+.flex, .logo-image {
+  margin: 30px;
+}
+
+.logo-image {
+  margin-right: auto;  
+}  
+
+.flex {
+  padding: 30px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+
+.flex  a {
+  color: #422928;
+  text-decoration: none;
+}
+
+/* This is hover for nav link's */
+.flex a:hover {
+  background-color: transparent;
+  color: #ffa19e;
 }
