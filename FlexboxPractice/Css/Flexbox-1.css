@@ -49,6 +49,16 @@ body {
 .container {
   background-color: white;
   border: 1px solid #3e472f;
-  margin: 200px 200px 0px 200px ;
-  height: 600px;
+  margin: 100px 200px 0px 200px ;
+  height: 750px;
+}
+/* fOOTER HERE */
+.foot {
+  background-color: #E9F5DB;
+  border: 1px solid #afc394;
+  margin: 700px 0px 0px 0px;
+  height: 100px;
+  text-align: center;
+  padding: 50px;
+  font-size: 80px;
 }
