@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/* This is For Body */
+
+body {
+  background-color: #fbfaf8; 
+
+}
+
+/* This is Navigation bar */
+
+.navigation {
+  display: flex;
+  background-color: #e7decd;
+  padding: 40px;
+  justify-content:flex-end ;
+}
+
+.flex, .Logo {
+  margin: 10px;
+  font-family: sans-serif;
+}
+
+.flex a {
+  text-decoration: none;
+}
+
