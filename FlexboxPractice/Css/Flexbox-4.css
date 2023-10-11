@@ -59,7 +59,24 @@ body {
 .container-1 {
   position: absolute;
   display: flex;
-  margin: 200px;
-  height: 1400px;
+  margin: 200px 100px 100px 100px;
+  height: 500px;
 }
+#image-1 {
+  width: 600px;
+  border-radius: 40px;
+}
+
+.text {
+  color: #5d1d29;
+  font-size: 100px;
+  margin: 200px;
+  text-shadow: 20px 20px 20px #e2a2ae;
+  letter-spacing: 5px;
+}
+
+.con-1 {
+  padding: 20px;
+}
+
 
