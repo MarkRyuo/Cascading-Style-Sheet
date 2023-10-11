@@ -29,7 +29,7 @@ body {
 }
 
 .navigation .flex {
-  margin: 20px;
+  margin: 30px;
   font-family: 'Young Serif', serif;
 }
 
@@ -37,3 +37,15 @@ body {
   margin-right: auto;
   margin-left: 20px;
 }
+
+.flex a {
+  color: #5d1d29;
+  text-decoration: none;
+  text-shadow: 5px 5px 3px #e2a2ae;
+  font-size: 25px;
+}
+.flex a:hover {
+  background-color: transparent;
+  color: #E7B1BB;
+}
+
