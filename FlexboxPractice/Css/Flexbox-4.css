@@ -60,7 +60,7 @@ body {
 .container-1 {
   position: absolute;
   display: flex;
-  margin: 100px 100px 100px 100px;
+  margin: 150px 100px 100px 100px;
   height: 500px;
 }
 #image-1 {
@@ -85,7 +85,22 @@ body {
 .container-2 {
   position: absolute;
   display: flex;
-  margin: 1400px 100px 100px 100px;
+  margin: 1370px 100px 100px 100px;
+  padding: 0 100px 100px 0px;
+}
+
+
+#image-2 {
+  width: 400px;
+  border-radius: 100px;
+}
+
+.text-2 {
+  font-size: 40px;
+  margin: 200px 0 200px 30px;
+}
+.text-3 ul li {
+  font-size: 20px;
 }
 
 
