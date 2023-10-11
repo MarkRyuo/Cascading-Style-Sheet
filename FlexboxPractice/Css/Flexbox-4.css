@@ -13,7 +13,7 @@ body {
 /* first is the image */
 
 #img1 {
-  width: 70px;
+  width: 90px;
   height: 90px;
   border-radius: 50px;
   box-shadow: 10px 10px 10px #e2a2ae;
@@ -26,6 +26,7 @@ body {
   justify-content: flex-end;
   position: fixed;
   width: 100%;
+  top: 10px;
 }
 
 .navigation .flex {
@@ -59,7 +60,7 @@ body {
 .container-1 {
   position: absolute;
   display: flex;
-  margin: 200px 100px 100px 100px;
+  margin: 100px 100px 100px 100px;
   height: 500px;
 }
 #image-1 {
@@ -77,6 +78,14 @@ body {
 
 .con-1 {
   padding: 20px;
+}
+
+/* This is Container-2 */
+
+.container-2 {
+  position: absolute;
+  display: flex;
+  margin: 1400px 100px 100px 100px;
 }
 
 
