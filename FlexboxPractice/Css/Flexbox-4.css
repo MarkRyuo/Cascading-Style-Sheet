@@ -85,7 +85,7 @@ body {
   display: flex;
   margin: 600px 100px 50px 100px;
   padding: 0px 100px 0px 0px;
-  background-color: #EBC1C9;
+  background-color: rgba(235, 193, 201, 0.687);
   border-radius: 40px;
 }
 
@@ -98,10 +98,12 @@ body {
 .text-2 {
   font-size: 40px;
   margin: 200px 0px 0px 30px;
+  color: #5d1d29;
 }
 .text-3 ul li {
   font-size: 20px;
   text-align: justify;
+  color: #5d1d29;
 }
 .text-3 {
   margin: 300px 100px 0px 0px;
@@ -111,20 +113,21 @@ body {
 
 .container-3 {
   display: flex;
-  margin: 700px 100px 100px 100px ;
+  margin: 300px 100px 100px 100px ;
   position: absolute;
-  background-color: #E6B2BC;
+  background-color: rgba(230, 178, 188, 0.455);
   border-radius: 50px;
 }
 
 #image-3 {
   width: 500px;
-  border-radius: 80px;
+  border-radius: 100px;
 }
 
 .text-5 {
   margin: 150px 0px 0px 40px;
   font-size: 60px;
+  color: #5d1d29;
 }
 
 ul .li-1 {
