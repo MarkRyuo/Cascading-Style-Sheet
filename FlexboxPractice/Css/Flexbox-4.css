@@ -139,3 +139,28 @@ ul .li-1 {
   text-align: justify;
   word-spacing: 2px;
 }
+
+/* Design Code for Container-4 */
+
+.container-4 {
+  display: flex;
+  justify-content: center;
+  margin: 900px 100px 100px 100px ;
+  background-color: rgba(226, 162, 174, 0.773);
+  border-radius: 50px;
+}
+
+.con-4 {
+  position: absolute;
+}
+
+.con-4 #image-4 {
+  width: 500px;
+  
+}
+.con-4 #image-5 {
+  width: 500px;
+}
+.con-4 #image-6 {
+  width: 500px;
+}
