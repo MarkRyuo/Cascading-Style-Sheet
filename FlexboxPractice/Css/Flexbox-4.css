@@ -97,10 +97,15 @@ body {
 
 .text-2 {
   font-size: 40px;
-  margin: 200px 0 200px 30px;
+  margin: 200px 0px 0px 30px;
+  padding-right: 40px;
 }
 .text-3 ul li {
   font-size: 20px;
+  text-align: justify;
+}
+.text-3 {
+  margin: 300px 100px 100px 0px;
 }
 
 
