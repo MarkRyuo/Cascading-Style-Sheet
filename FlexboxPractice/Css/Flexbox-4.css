@@ -85,7 +85,7 @@ body {
 .container-2 {
   position: absolute;
   display: flex;
-  margin: 1370px 100px 100px 100px;
+  margin: 1300px 100px 100px 100px;
   padding: 0 100px 100px 0px;
 }
 
@@ -98,7 +98,6 @@ body {
 .text-2 {
   font-size: 40px;
   margin: 200px 0px 0px 30px;
-  padding-right: 40px;
 }
 .text-3 ul li {
   font-size: 20px;
@@ -108,4 +107,5 @@ body {
   margin: 300px 100px 100px 0px;
 }
 
+/* This is Container-3 */
 
