@@ -26,7 +26,7 @@ body {
   justify-content: flex-end;
   position: fixed;
   width: 100%;
-  top: 10px;
+  top: 0;
 }
 
 .navigation .flex {
@@ -58,7 +58,6 @@ body {
 /* This is the Container-1 */
 
 .container-1 {
-  position: absolute;
   display: flex;
   margin: 150px 100px 100px 100px;
   height: 500px;
@@ -83,10 +82,11 @@ body {
 /* This is Container-2 */
 
 .container-2 {
-  position: absolute;
   display: flex;
-  margin: 1300px 100px 100px 100px;
-  padding: 0 100px 100px 0px;
+  margin: 1230px 100px 50px 100px;
+  padding: 0px 100px 0px 0px;
+  background-color: #EBC1C9;
+  border-radius: 40px;
 }
 
 
@@ -104,8 +104,13 @@ body {
   text-align: justify;
 }
 .text-3 {
-  margin: 300px 100px 100px 0px;
+  margin: 300px 100px 0px 0px;
 }
 
 /* This is Container-3 */
 
+.container-3 {
+  display: flex;
+  margin: 2150px 100px 100px 100px ;
+  position: absolute;
+}
