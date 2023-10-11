@@ -83,7 +83,7 @@ body {
 
 .container-2 {
   display: flex;
-  margin: 1230px 100px 50px 100px;
+  margin: 600px 100px 50px 100px;
   padding: 0px 100px 0px 0px;
   background-color: #EBC1C9;
   border-radius: 40px;
@@ -111,6 +111,23 @@ body {
 
 .container-3 {
   display: flex;
-  margin: 2150px 100px 100px 100px ;
+  margin: 700px 100px 100px 100px ;
   position: absolute;
+  background-color: #E6B2BC;
+  border-radius: 50px;
+}
+
+#image-3 {
+  width: 500px;
+  border-radius: 80px;
+}
+
+.text-5 {
+  margin: 150px 0px 0px 40px;
+  font-size: 60px;
+}
+
+ul .li-1 {
+  font-size: 20px;
+  margin: 10px 30px;
 }
