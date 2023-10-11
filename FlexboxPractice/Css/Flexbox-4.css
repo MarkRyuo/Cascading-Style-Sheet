@@ -52,3 +52,14 @@ body {
 .about {
   padding-right: 30px;
 }
+
+
+/* This is the Container-1 */
+
+.container-1 {
+  position: absolute;
+  display: flex;
+  margin: 200px;
+  height: 1400px;
+}
+
