@@ -1,4 +1,51 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=PT+Serif&display=swap');
+
 * {
   margin: 0;
   padding: 0;
+}
+/* 1st resizing the image logo */
+
+#logo {
+  width: 120px;
+  border-radius: 50px;
+}
+
+/* this is navigation */
+
+body {
+  background-color: #CDF4ED;
+}
+
+.navigation {
+  display: flex;
+  background-color: rgba(70, 216, 194, 32%);
+  position: fixed;
+  width: 100%;
+  gap: 40px;
+}
+
+.nav {
+  font-size: 25px;
+  font-family: 'PT Serif', serif;
+}
+.nav:first-child {
+  margin-right: auto;
+}
+
+.nav:last-child {
+  margin-left: auto;
+}
+
+#logo {
+  margin: 10px 0px 10px 30px;
+}
+
+.about {
+  margin: 50px 30px 20px 0px;
+}
+
+.code, .images {
+  margin: 50px 10px 20px 10px ;
 }
