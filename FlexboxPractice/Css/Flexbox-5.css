@@ -22,6 +22,7 @@ body {
   display: flex;
   background-color: rgba(70, 216, 194, 32%);
   position: fixed;
+  top: 0;
   width: 100%;
   gap: 40px;
   box-shadow: 10px 15px 10px rgba(14, 67, 59, 50%);
@@ -63,5 +64,8 @@ body {
   text-transform:uppercase;
   letter-spacing: 20px;
 }
+ /* This is the design code of Container-1 */
 
-
+ .container-1 {
+  margin: 467px;
+ }
