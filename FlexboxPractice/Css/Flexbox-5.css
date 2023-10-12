@@ -56,9 +56,11 @@ body {
   text-decoration: none;
   border-radius: 10px;
 }
+
 .nav .a-0:hover {
   box-shadow: 10px 10px 10px rgba(14, 67, 59, 50%);
   transition: 1s;
   text-transform:uppercase;
   letter-spacing: 20px;
 }
+
