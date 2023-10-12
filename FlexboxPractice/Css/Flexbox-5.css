@@ -76,6 +76,7 @@ body {
  }
 
  .p-1 {
-  font-size: 32px;
+  font-size: 30px;
   text-transform: capitalize;
+  text-align: justify;
  }
