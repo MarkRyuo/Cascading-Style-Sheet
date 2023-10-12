@@ -67,5 +67,15 @@ body {
  /* This is the design code of Container-1 */
 
  .container-1 {
-  margin: 467px;
+  margin: 450px 350px 0px 70px;
+  color: #0E433B;
+ }
+
+ .text-1 {
+  font-size: 70px;
+ }
+
+ .p-1 {
+  font-size: 32px;
+  text-transform: capitalize;
  }
