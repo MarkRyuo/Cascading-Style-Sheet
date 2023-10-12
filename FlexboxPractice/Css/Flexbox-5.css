@@ -24,6 +24,7 @@ body {
   position: fixed;
   width: 100%;
   gap: 40px;
+  box-shadow: 10px 15px 10px rgba(14, 67, 59, 50%);
 }
 
 .nav {
@@ -43,9 +44,21 @@ body {
 }
 
 .about {
-  margin: 50px 30px 20px 0px;
+  margin: 50px 100px 20px 0px;
 }
 
 .code, .images {
   margin: 50px 10px 20px 10px ;
+}
+
+.nav .a-0{
+  color: #0E433B;
+  text-decoration: none;
+  border-radius: 10px;
+}
+.nav .a-0:hover {
+  box-shadow: 10px 10px 10px rgba(14, 67, 59, 50%);
+  transition: 1s;
+  text-transform:uppercase;
+  letter-spacing: 20px;
 }
