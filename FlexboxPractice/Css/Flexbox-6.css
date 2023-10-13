@@ -19,8 +19,11 @@ body {
 
 .logo {
   margin-right: auto;
-  border-radius: 50px;
-  width: 500px;
+}
+.logo img {
+  width: 120px;
+  border-radius: 100px;
+  padding: 20px;
 }
 .ul-1 {
   display: flex;
