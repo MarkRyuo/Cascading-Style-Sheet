@@ -9,9 +9,26 @@ body {
   background-color: #E9D8DD;
 }
 
-.navigation {
+.navigation{
   position: fixed;
+  width: 100%;
   display: flex;
   justify-content: flex-end;
   background-color: #DABEC6;
+}
+
+.logo {
+  margin-right: auto;
+  border-radius: 50px;
+  width: 500px;
+}
+.ul-1 {
+  display: flex;
+  gap: 50px;
+  font-size: 30px;
+  list-style: none;
+}
+
+.ul-1 li a {
+  text-decoration: none;
 }
