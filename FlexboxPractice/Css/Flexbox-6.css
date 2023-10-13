@@ -15,6 +15,7 @@ body {
   display: flex;
   justify-content: flex-end;
   background-color: #DABEC6;
+  box-shadow: 20px 10px 20px #B57D8D;
 }
 
 .logo {
@@ -35,4 +36,13 @@ body {
 
 .ul-1 li a {
   text-decoration: none;
+  color: #4E2D35;
+}
+
+.ul-1 li a:hover {
+  color: #9B596A;
+  background-color: none;
+  letter-spacing: 20px;
+  text-shadow: 10px 10px 5px #683C47;
+  transition: 1s;
 }
