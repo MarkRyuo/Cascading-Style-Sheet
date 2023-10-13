@@ -9,3 +9,9 @@ body {
   background-color: #E9D8DD;
 }
 
+.navigation {
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  background-color: #DABEC6;
+}
