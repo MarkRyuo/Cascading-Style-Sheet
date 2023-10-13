@@ -10,6 +10,7 @@ body {
 }
 
 .navigation{
+  top: 0;
   position: fixed;
   width: 100%;
   display: flex;
@@ -48,4 +49,17 @@ body {
   letter-spacing: 20px;
   text-shadow: 10px 10px 5px #683C47;
   transition: 1s;
+}
+
+
+.container-1 {
+  margin: 100px;
+}
+
+.Text-1 {
+  font-size: 300px;
+  font-family: 'Pixelify Sans', sans-serif;
+  color: #4E2D35;
+  text-align: center;
+  padding-top: 200px;
 }
