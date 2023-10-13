@@ -62,4 +62,15 @@ body {
   color: #4E2D35;
   text-align: center;
   padding-top: 200px;
+  text-transform: capitalize;
+}
+.Text-1 p:hover {
+  letter-spacing: 90px;
+  transition: 1s;
+  background-image: url(https://i.pinimg.com/564x/4a/54/3b/4a543be6263104d8de093d7ac4e51257.jpg);
+  background-size: contain;
+  text-shadow: 50px 10px 20px #683C47;
+  border-radius: 200px;
+  color: #E9D8DC;
+
 }
