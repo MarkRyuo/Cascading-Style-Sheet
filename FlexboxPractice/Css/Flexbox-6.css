@@ -16,6 +16,8 @@ body {
   justify-content: flex-end;
   background-color: #DABEC6;
   box-shadow: 20px 10px 20px #B57D8D;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
 }
 
 .logo {
@@ -32,6 +34,7 @@ body {
   font-size: 30px;
   list-style: none;
   padding: 60px;
+  font-family: 'Pixelify Sans', sans-serif;
 }
 
 .ul-1 li a {
