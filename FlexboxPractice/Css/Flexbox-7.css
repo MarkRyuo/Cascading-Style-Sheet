@@ -41,4 +41,5 @@ body {
   border-radius: 500px;
   transition: 1s;
   box-shadow: 400px 300px 30px #8774D2;
+  transition-delay: 0.3s;
 }
