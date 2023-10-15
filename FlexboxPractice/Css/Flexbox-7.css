@@ -45,7 +45,7 @@ body {
 }
 /* container-2 design code */
 .container-2 {
-  margin: 200px 200px 100px 200px;
+  margin: 200px 200px 50px 200px;
   display:flex;
   justify-content: space-evenly;
   border-radius: 40px;
@@ -61,4 +61,10 @@ body {
   border-radius: 40px;
 }
 
+.image-1:hover {
+  padding-left: 500px;
+  border-radius: 600px ;
+  transition: 1s;
+  transition-delay: 0.2s;
+}
 
