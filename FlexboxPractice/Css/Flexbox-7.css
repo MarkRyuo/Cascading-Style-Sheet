@@ -32,7 +32,13 @@ body {
 
 .container-1 {
   display: flex;
-  margin: 200px;
+  margin: 150px 200px 100px 200px;
   justify-content: space-between;
   border-radius: 40px;
+}
+
+.image:hover {
+  border-radius: 500px;
+  transition: 1s;
+  box-shadow: 400px 300px 30px #8774D2;
 }
