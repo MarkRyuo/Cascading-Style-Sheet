@@ -43,3 +43,22 @@ body {
   box-shadow: 400px 300px 30px #8774D2;
   transition-delay: 0.3s;
 }
+/* container-2 design code */
+.container-2 {
+  margin: 200px 200px 100px 200px;
+  display:flex;
+  justify-content: space-evenly;
+  border-radius: 40px;
+}
+
+.img-4 {
+  width: 500px;
+  border-radius: 40px;
+}
+
+.img-5 {
+  width: 500px;
+  border-radius: 40px;
+}
+
+
