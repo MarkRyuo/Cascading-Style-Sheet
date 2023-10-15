@@ -8,3 +8,31 @@
 body {
   background-color: #291E5C;
 }
+
+/* Resize image first */
+
+.img-1 {
+  width: 400px;
+  border-radius: 40px;
+  box-shadow: 30px 20px 10px #D7D1F0;
+}
+
+.img-2 {
+  width: 447px;
+  border-radius: 40px;
+  box-shadow: 30px 20px 10px #D7D1F0;
+}
+.img-3 {
+  width: 538px;
+  border-radius: 40px;
+  box-shadow: 20px 15px 10px #D7D1F0;
+}
+
+/* Container-1 no Z-index */
+
+.container-1 {
+  display: flex;
+  margin: 200px;
+  justify-content: space-between;
+  border-radius: 40px;
+}
