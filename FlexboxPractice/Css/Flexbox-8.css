@@ -37,4 +37,11 @@ body {
   position: absolute;
 }
 
+/* Image Hover's */
+
+.img1:hover {
+  position: absolute;
+  margin-left: 0;
+}
+
 
