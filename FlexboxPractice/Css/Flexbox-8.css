@@ -11,12 +11,23 @@ body {
 
 .img1 {
   width: 500px;
+  border-radius: 30px;
 }
 
 .img2 {
   width: 500px;
+  border-radius: 30px;
 }
 
 .img3 {
   width: 500px;
+  border-radius: 30px;
+}
+
+.container {
+  margin: 50px 150px 50px 150px;
+  padding: 40px;
+  box-shadow: 20px 10px 10px #12C0CF;
+  border-radius: 30px;
+  background-color: #33DEED;
 }
