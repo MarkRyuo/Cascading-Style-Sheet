@@ -40,8 +40,9 @@ body {
 /* Image Hover's */
 
 .img1:hover {
-  position: absolute;
-  margin-left: 0;
+  border-radius: 200px;
+  transition: 1s;
+  box-shadow: 10px 10px 5px #057983;
 }
 
 
