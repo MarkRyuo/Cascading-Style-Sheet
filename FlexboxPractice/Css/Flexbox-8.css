@@ -34,6 +34,7 @@ body {
   background-color: #33DEED;
   display: flex;
   gap: 20px;
+  position: absolute;
 }
 
 
