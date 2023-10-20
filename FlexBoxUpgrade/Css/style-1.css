@@ -5,3 +5,7 @@
   padding: 0;
 }
 
+:root {
+  --bgColor: rgb(250, 250, 250);
+}
+
