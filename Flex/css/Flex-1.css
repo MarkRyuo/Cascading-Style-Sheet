@@ -6,7 +6,16 @@
 /* (*) means select all */
 
 main {
-  width: 500px;
-  height: 600px;
-  border: 5px solid black;
+  font-size: 10px;
 }
+
+.box {
+  border: 2px solid red;
+  font-size: 2em;
+  flex-wrap: wrap;
+  padding: 1em;
+  margin: 2em;
+  width: 50vw;
+}
+
+.box 
