@@ -6,11 +6,26 @@
 }
 
 :root {
-  --bgColor: rgb(230, 199, 213);
+  --bgColor: rgb(242, 227, 234);
   --textColor: rgb(84, 38, 59);
   --boxShadow: #CC8EAA;
   --txtshadow: #B9648B;
   --navcolor: rgb(217, 171, 192);
-  --navshadow: #C680A0;
+  --navshadow: #a46e86;
 }
 
+body {
+  background-color: var(--bgColor);
+}
+
+/* resizing image logo */
+
+header .navigation .image-nav img {
+  width: 8rem;
+  border-radius: 100px;
+  box-shadow: 5px 10px 10px var(--navshadow);
+}
+
+header {
+  width: 100%;
+}
