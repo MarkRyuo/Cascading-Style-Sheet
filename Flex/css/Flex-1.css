@@ -18,4 +18,6 @@ main {
   width: 50vw;
 }
 
-.box #p1  
+.box .bx-1 {
+  font-size: 2em;
+}
