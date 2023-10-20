@@ -29,3 +29,28 @@ header .navigation .image-nav img {
 header {
   width: 100%;
 }
+
+header .navigation, ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+header .navigation .image-nav {
+  margin-right: auto;
+}
+
+header .navigation {
+  margin: 10px 20px;
+}
+
+.navigation ul li {
+  margin: 30px 20px;
+  list-style: none;
+  font-size: x-large;
+}
+
+.navigation ul li a { 
+  text-decoration: none;
+}
+
+
