@@ -6,6 +6,11 @@
 }
 
 :root {
-  --bgColor: rgb(250, 250, 250);
+  --bgColor: rgb(230, 199, 213);
+  --textColor: rgb(84, 38, 59);
+  --boxShadow: #CC8EAA;
+  --txtshadow: #B9648B;
+  --navcolor: rgb(217, 171, 192);
+  --navshadow: #C680A0;
 }
 
