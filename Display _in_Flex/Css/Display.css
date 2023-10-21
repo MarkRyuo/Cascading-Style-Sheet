@@ -26,7 +26,10 @@ body {
   border: 0.2em solid red;
   width: 10vw;
   font-size: 1em;
-  flex-wrap: wrap;
+}
+
+.container-1 .con-1 p {
+  font-size: 2rem;
 }
 
 .container-1 .con-2 {
