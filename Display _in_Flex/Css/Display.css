@@ -5,3 +5,45 @@
   padding: 0;
 }
 
+body {
+  width: 100%;
+}
+
+.container-1 {
+  border: 2px solid black;
+  display: flex;
+  justify-content:center;
+  height: 100px;
+  width: 100%;
+  font-size: 20px;
+
+}
+
+.cons {
+  font-size: 1em;
+  width: 100px;
+}
+
+.container-1 .con-1 {
+  background-color: aliceblue;
+  border: 0.2em solid red;
+  width: 6em;
+}
+
+.container-1 .con-2 {
+  background-color:antiquewhite;
+  border: 0.2em solid red;
+  width: 6em;
+}
+
+.container-1 .con-3 {
+  background-color:aqua;
+  border: 0.2em solid red;
+  width: 6em;
+}
+
+.container-1 .con-4 {
+  background-color:aquamarine;
+  border: 0.2em solid red;
+  width: 6em;
+}
