@@ -1,0 +1,16 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bgColor: rgb(215, 215, 234);
+  --boxShadow: rgb(161, 161, 206);
+  --textColor: rgb(42, 42, 80);
+}
+
+body {
+  background-color: var(--bgColor);
+}
+
