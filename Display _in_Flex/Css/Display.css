@@ -15,35 +15,37 @@ body {
   justify-content:center;
   height: 100px;
   width: 100%;
-
-}
-
-.cons {
   font-size: 20px;
-  width: 100px;
+  flex-wrap: wrap;
+
 }
+
 
 .container-1 .con-1 {
   background-color: aliceblue;
   border: 0.2em solid red;
-  width: 6em;
-  font-size: 1.2em;
+  width: 10vw;
+  font-size: 1em;
+  flex-wrap: wrap;
 }
 
 .container-1 .con-2 {
   background-color:antiquewhite;
   border: 0.2em solid red;
-  width: 6em;
+  width: 10vw;
+  font-size: 1em;
 }
 
 .container-1 .con-3 {
   background-color:aqua;
   border: 0.2em solid red;
-  width: 6em;
+  width: 10vw;
+  font-size: 1em;
 }
 
 .container-1 .con-4 {
   background-color:aquamarine;
   border: 0.2em solid red;
-  width: 6em;
+  width: 10vw;
+  font-size: 1em;
 }
