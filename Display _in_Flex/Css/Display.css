@@ -15,12 +15,11 @@ body {
   justify-content:center;
   height: 100px;
   width: 100%;
-  font-size: 20px;
 
 }
 
 .cons {
-  font-size: 1em;
+  font-size: 20px;
   width: 100px;
 }
 
@@ -28,6 +27,7 @@ body {
   background-color: aliceblue;
   border: 0.2em solid red;
   width: 6em;
+  font-size: 1.2em;
 }
 
 .container-1 .con-2 {
