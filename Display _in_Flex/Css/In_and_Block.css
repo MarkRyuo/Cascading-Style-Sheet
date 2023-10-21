@@ -7,6 +7,7 @@
   display: inline-flex;
   justify-content: space-between;
   flex-direction: column;
+  align-items:  center;
   flex-wrap: wrap;
   border: 1px solid black;
   width: 50vw;
@@ -18,4 +19,5 @@
   border: 1px solid red;
   height: 8vh;
   width: 9vw;
+  border-radius: 1rem;
 }
