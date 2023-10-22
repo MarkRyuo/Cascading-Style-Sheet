@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+div {
+  border: 2px black solid;
+  margin: 30px;
+  padding: 10px;
+}
+
+.container-normal {
+  width: 500px;
+  height: 100px;
+}
+
+.container-max {
+  max-width: 500px;
+  max-height: 100px;
+}
+
+.container-min {
+  min-width: 500px;
+  min-height: 100px;
+  margin: 0;
+}
+
