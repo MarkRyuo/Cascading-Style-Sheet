@@ -2,3 +2,24 @@
   margin: 0;
   padding: 0;
 }
+
+main {
+  /* min-width: 415px;
+  min-height: 900px; */
+  margin: 0;
+}
+.image {
+  min-width: 415px;
+  /* max-height: 900px; */
+  margin: 20px;
+  border: 2px solid black;
+}
+
+main .image img {
+  border-radius: 50px;
+}
+
+main .image img {
+  max-width: 200px;
+  /* max-height: 900px; */
+}
