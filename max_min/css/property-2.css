@@ -17,9 +17,6 @@ main {
 
 main .image img {
   border-radius: 50px;
-}
-
-main .image img {
   max-width: 200px;
   /* max-height: 900px; */
 }
