@@ -7,7 +7,7 @@
 
 .container {
     border: 1px solid;
-    height: 50vh;
+    height: 100vh;
     width: 100vw;
 }
 
@@ -19,14 +19,13 @@
 
 }
 
-.con2 {
-    height: 100vh;
-    width: 100%;
-}
 
-.con2 span {
-    background-image: url(https://i.pinimg.com/736x/81/7c/c4/817cc4a7b78d465fed8cea9880f2bab0.jpg);
+.con2 div {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://i.pinimg.com/736x/fd/7e/ba/fd7eba356f7be8ee958cd2a369ae3c74.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
 }
