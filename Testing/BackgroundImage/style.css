@@ -1,9 +1,12 @@
 
 
 div {
-    height: auto;
+    padding: 0;
+    margin: 0;
+    border: 1px solid;
+    height: 100vh;
 }
 
-img {
-    background-size: cover;
+div img {
+    background-color: aquamarine;
 }
